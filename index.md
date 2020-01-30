@@ -1,6 +1,6 @@
 theme: jekyll theme
 
-title: Welcome to Emanuel's homepage!
+title: Welcome to EmanGon20's homepage!
 
 description: Feel free to bookmark this to keep an eye on my project updates
 
